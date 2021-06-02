@@ -21,6 +21,7 @@ build-debian:
         build-essential
         docbook-xml
         docbook-xsl
+        gettext
         pkg-config
         pngcrush
         pngnq

@@ -25,6 +25,7 @@ build-debian:
         pkg-config
         pngcrush
         pngnq
+        python3
         xsltproc
   script:
     - mkdir _build
